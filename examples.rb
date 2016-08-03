@@ -1,4 +1,3 @@
-carokne;all? { |a;lks
-   asdf
-    ;akln
-     ;kn |  }
+puts "What's your name?"
+name = gets.strip
+puts "Hello #{name}"
